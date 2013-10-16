@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[before(function (done) {
+  ${0:...}
+});
+]]></content>
+  <tabTrigger>bef</tabTrigger>
+  <scope>source.js</scope>
+  <description>mocha before (asynchronous)</description>
+</snippet>

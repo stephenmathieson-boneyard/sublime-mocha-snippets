@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[afterEach(function (done) {
+  ${0:...}
+});
+]]></content>
+  <tabTrigger>afte</tabTrigger>
+  <scope>source.js</scope>
+  <description>mocha after each (asynchronous)</description>
+</snippet>

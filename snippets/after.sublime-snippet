@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[after(function (done) {
+  ${0:...}
+});
+]]></content>
+  <tabTrigger>aft</tabTrigger>
+  <scope>source.js</scope>
+  <description>mocha after (asynchronous)</description>
+</snippet>
